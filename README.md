@@ -23,7 +23,7 @@ Conhecimentos
 
 
 <p align="center">
-🕹️ Projetos
+Projetos
 </h1>
 
 - "[Spamnic](https://github.com/nathandesouza/Spamnic)" Um jogo de plataforma 3d de ação e aventura com o tema "Internet", feito com Unity, C#, Blender, Aseprite. 
