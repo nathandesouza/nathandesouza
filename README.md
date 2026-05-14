@@ -10,7 +10,7 @@ Nathan de Souza
 Olá, Meu nome é Nathan de Souza, tenho 19 anos e sou Desenvolvedor de jogos. Atuo como Game Designer, programador e Artista. Atualmente estou cursando jogos digitais pelo Senac. 
 
 <h1 align="center" style="margin-bottom: 0;">
-Tecnologias
+Conhecimentos
 </p>
     
 <p align="center">
